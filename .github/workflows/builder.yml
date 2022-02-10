@@ -36,4 +36,5 @@ jobs:
         with:
           name: Build
           path: build
+          projectPath: ./test-project
        
